@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 
 ![Avish Shah's github stats](https://github-readme-stats.vercel.app/api?username=avishshah11&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishshah11&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishshah11&layout=compact&theme=tokyonight)
