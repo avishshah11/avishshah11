@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Avish
-<p align = 'center'>
-<img src = "https://raw.githubusercontent.com/avishshah11/avishshah11/master/Images/readme.jpg" height = "400"/>
-</p>
+
 <!--
 **avishshah11/avishshah11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,5 +19,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
+<img src = "https://raw.githubusercontent.com/avishshah11/avishshah11/master/Images/readme.jpg" height = "100"/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=avishshah11.avishshah11)
