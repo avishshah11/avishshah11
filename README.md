@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/avish11/">
   <img align="left" alt="Avish Shah's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+
+
 <p align = 'center'>
 <img src = "https://raw.githubusercontent.com/avishshah11/avishshah11/master/Images/readme.jpg" height = "300" width = "500"/>
 </p>
