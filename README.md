@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align='center'>
  <a href="https://www.linkedin.com/in/avish-shah-ba77581a0/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+<p align = 'center'>
+<img src = "https://raw.githubusercontent.com/avishshah11/avishshah11/master/Images/readme.jpg" height = "300" width = "500"/>
 </p>
-<img src = "https://raw.githubusercontent.com/avishshah11/avishshah11/master/Images/readme.jpg" height = "100"/>
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=avishshah11.avishshah11)
