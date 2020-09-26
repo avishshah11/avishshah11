@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Avish
-
+<p align = 'center'>
+<img src = "https://raw.githubusercontent.com/avishshah11/avishshah11/master/Images/readme.jpg" height = "400"/>
+</p>
 <!--
 **avishshah11/avishshah11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,8 +22,6 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
 </p>
 
-
-![Avish Shah's github stats](https://github-readme-stats.vercel.app/api?username=avishshah11&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishshah11&layout=compact&theme=tokyonight)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=avishshah11.avishshah11)
