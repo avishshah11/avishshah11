@@ -23,14 +23,13 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/shahaavish/">
   <img align="left" alt="Avish Shah's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
 <a href="https://leetcode.com/avish11/">
   <img align="left" alt="Avish Shah's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-
-
+<br />
+<br />
 <p align = 'center'>
-<img src = "https://raw.githubusercontent.com/avishshah11/avishshah11/master/Images/readme.jpg" height = "300" width = "500"/>
+  <img src ="https://raw.githubusercontent.com/avishshah11/avishshah11/master/Images/readme.jpg" height = "300" width = "500"/>
 </p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=avishshah11.avishshah11)
+![](https://visitor-badge.laobi.icu/badge?page_id=avishshah11.avishshah11)
