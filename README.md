@@ -22,6 +22,4 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avishshah11&layout=compact&theme=tokyonight)
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=avishshah11.avishshah11)
