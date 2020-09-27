@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/avish11/">
   <img align="left" alt="Avish Shah's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+<a href="https://www.hackerrank.com/avishshah1108">
+  <img align="left" alt="Avish Shah's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
 <br />
 <br />
 <p align = 'center'>
