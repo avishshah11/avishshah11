@@ -19,19 +19,11 @@ Here are some ideas to get you started:
 <a href="https://t.me/avishshah">
   <img align="left" alt="Avish Shah's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/shahaavish/">
-  <img align="left" alt="Avish Shah's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://leetcode.com/avish11/">
   <img align="left" alt="Avish Shah's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <a href="https://www.hackerrank.com/avishshah1108">
   <img align="left" alt="Avish Shah's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
-<a href="https://dev.to/avishshah11">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Avish Shah's DEV Profile" img align="left"width="22px">
-</a>
-<br />
-<br />
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=avishshah11.avishshah11)
