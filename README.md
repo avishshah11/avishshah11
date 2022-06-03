@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/avishshah11/avishshah11/master/Images/wave.gif" width="10px"> I'm Avish
+### Hi there <img src="https://raw.githubusercontent.com/avishshah11/avishshah11/master/Images/wave.gif"> I'm Avish
 <!--
 **avishshah11/avishshah11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
