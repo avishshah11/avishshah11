@@ -1,4 +1,4 @@
-### Hi there! I'm Avish
+### Hi there! I'm Avish👋
 <!--
 **avishshah11/avishshah11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
