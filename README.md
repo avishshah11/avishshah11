@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/avishshah1108">
   <img align="left" alt="Avish Shah's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+
+<p align="center">
+<a href="https://github.com/avishshah11">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avishshah11&show_icons=true&theme=merko&include_all_commits=true&hide=contribs&count_private=true&line_height=32" alt="Avish GitHub Stats" />
+</a>
+</p>
